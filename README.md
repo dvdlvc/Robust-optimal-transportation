@@ -10,7 +10,9 @@ Specifically:
 
 2. the folder [RWGAN](https://github.com/dvdlvc/Robust-optimal-transportation/tree/main/RWGAN) contains the Python files needed to reproduce the results in \S 5.3.1 and 5.3.2 of the paper (Robust Wasserstein GAN). The availanle code is for both sythetic and real data (see .zip folder);
 
-3. the folder [Robust domain adaptation] contains the Python files needed to reproduce the results in Appendix of the paper (Robust domain adaptation via ROBOT).
+3. the folder [Robust domain adaptation](https://github.com/dvdlvc/Robust-optimal-transportation/tree/main/Robust_domain_adatation) contains the Python files needed to reproduce the results in Appendix of the paper for the Machine Learning problem: Domain Adaptation via ROBOT.
+
+4. the folder contains the R files needed to reproduce the results in Appendix of the paper in which the Authors illustrate how to use ROBOT to detect outliers first and then to estimate the model parameters via OLS in a regression problem.
 
 
 
