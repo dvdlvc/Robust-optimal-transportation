@@ -12,7 +12,7 @@ Specifically:
 
 3. the folder [Robust domain adaptation](https://github.com/dvdlvc/Robust-optimal-transportation/tree/main/Robust_domain_adatation) contains the Python files needed to reproduce the results in Appendix of the paper for the Machine Learning problem: Domain Adaptation via ROBOT.
 
-4. the folder [ROBOT_estimation_oulierdetection](https://github.com/dvdlvc/Robust-optimal-transportation/tree/main/ROBOT_estimation_oulierdetection) contains the R files needed to reproduce the results in Appendix of the paper in which the Authors illustrate how to use ROBOT to detect outliers first and then to estimate the model parameters via OLS in a regression problem.
+4. the folder [ROBOT_estimation_oulierdetection](https://github.com/dvdlvc/Robust-optimal-transportation/tree/main/ROBOT_estimation_oulierdetection) contains the Python files needed to reproduce the results in Appendix of the paper in which the Authors illustrate how to use ROBOT to detect outliers first and then to estimate the model parameters via OLS in a regression problem.
 
 
 Yiming Ma (mayiming@mail.ustc.edu.cn) is the author of the code. This README.md file has been created on 12-Jan-2023.
