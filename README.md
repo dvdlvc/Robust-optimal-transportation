@@ -10,7 +10,7 @@ This repository contains the code (in Python and R) needed to replicate the resu
 ####################
 
 
-Specifically:
+Details abut the files:
 
 1. the folder [MERWE](https://github.com/dvdlvc/Robust-optimal-transportation/tree/main/MERWE) contains the R files needed to reproduce the results in Section 5.2.1 and Section 5.2.2 of the paper (minimum robust Wasserstein estimation);
 
