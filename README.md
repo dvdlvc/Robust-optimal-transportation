@@ -15,6 +15,6 @@ Specifically:
 4. the folder [ROBOT_estimation_oulierdetection](https://github.com/dvdlvc/Robust-optimal-transportation/tree/main/ROBOT_estimation_oulierdetection) contains the Python files needed to reproduce the results in Appendix of the paper in which the Authors illustrate how to use ROBOT to detect outliers first and then to estimate the model parameters via OLS in a regression problem.
 
 
-Yiming Ma (mayiming@mail.ustc.edu.cn) is the author of the code. This README.md file has been created on 12-Jan-2023.
+Yiming Ma (mayiming@mail.ustc.edu.cn) is the author of the code. This README.md file has been created on 12-Jan-2023. Corresponding person: Yiming Ma.
 
 
