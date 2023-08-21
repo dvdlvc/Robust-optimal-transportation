@@ -1,7 +1,7 @@
 # Code for ROBOT and MERWE
 
 This repository contains the code (in Python and R) needed to replicate the results of the working paper 
-*``Theoretical and computational aspects of robust optimal transportation, with applications to statistics and machine learning''*, by Y. Ma, H. Liu and D. La Vecchia. Both Y. Ma and [H. Liu](https://bs.ustc.edu.cn/english/profile-1845.html) are affilited to the University of Science and Technology of China, while [D. La Vecchia](https://sites.google.com/view/davidelavecchia/home) is at the University of Geneva. The working paper version of the manuscript is available on arXiv. Here we dispaly the abstract:
+*``Inference via robust optimal transportation: theory and methods''*, by Y. Ma, H. Liu, D. La Vecchia and M. Lerasle. Both Y. Ma and [H. Liu](https://bs.ustc.edu.cn/english/profile-1845.html) are affilited to the University of Science and Technology of China,  [D. La Vecchia](https://sites.google.com/view/davidelavecchia/home) is at the University of Geneva. [M. Lerasle](https://lerasle.perso.math.cnrs.fr) is at CREST-ENSAE, Paris. The working paper version of the manuscript is available on arXiv. Here we dispaly the abstract:
 
 ####################
 
